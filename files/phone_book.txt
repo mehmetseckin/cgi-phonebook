@@ -1,0 +1,4 @@
+100|John Doe|01234567890|8 Smithers Lane, Perlsbrook, CGI
+101|Jane Doe|01239876543|91-A Copperbrook, Bash Valley, CGI
+102|Adam Smith|0992035201|91-B Copperbrook, Bash Valley, CGI
+103|David Broke|1239394123|21 Queens Terminal, Threadpool, CGI
